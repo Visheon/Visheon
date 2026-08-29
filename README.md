@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a computer science student at Loughborough University
+Please be patient with me I am learning!!
 <!--
 **Visheon/Visheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
