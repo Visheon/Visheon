@@ -1,4 +1,4 @@
-## Hi, I'm [Dominic]
+## Hi, I'm Dominic
 
 Computer Science & Artificial Intelligence student at Loughborough University.
 
